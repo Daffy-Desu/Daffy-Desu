@@ -1,4 +1,4 @@
-- 🧝 Hi, I’m Daffy
+- 🧝 Hi, I’m Daffy (My real name is Donovan).
 - 🎮 I’m interested in Web Design & Game Design / Development. I'm also interested in Motion Design, UI Design, Illustration, & Typography.
 - 🎓 I’m currently learning what my design style is. I've been researching alot about illustration styles, JS frameworks, and design language.
 - 💥 If you wish to collaborate with me on any Web Design or Game Design projects feel free to contact me, and I'll get back to you with an answer.
